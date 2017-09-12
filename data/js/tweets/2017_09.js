@@ -1,5 +1,955 @@
 Grailbird.data.tweets_2017_09 = [
   {
+    "created_at": "Mon Sep 11 07:51:59 +0000 2017",
+    "id": 907149708165910528,
+    "id_str": "907149708165910528",
+    "text": "@tixiang 这个还真是，说得比较形象！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tixiang",
+          "name": "xiang xiang",
+          "id": 21732054,
+          "id_str": "21732054",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 907140152425713669,
+    "in_reply_to_status_id_str": "907140152425713669",
+    "in_reply_to_user_id": 21732054,
+    "in_reply_to_user_id_str": "21732054",
+    "in_reply_to_screen_name": "tixiang",
+    "user": {
+      "id": 1448870624,
+      "id_str": "1448870624",
+      "name": "无毒老三",
+      "screen_name": "litanid",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/572706963549474816/HcKNq0gy_normal.png"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 11 07:50:35 +0000 2017",
+    "id": 907149357346021376,
+    "id_str": "907149357346021376",
+    "text": "@KevinSlaten 哈哈，我的选择是（a）",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "KevinSlaten",
+          "name": "Kevin Slaten",
+          "id": 15394601,
+          "id_str": "15394601",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 907123690302664704,
+    "in_reply_to_status_id_str": "907123690302664704",
+    "in_reply_to_user_id": 15394601,
+    "in_reply_to_user_id_str": "15394601",
+    "in_reply_to_screen_name": "KevinSlaten",
+    "user": {
+      "id": 1448870624,
+      "id_str": "1448870624",
+      "name": "无毒老三",
+      "screen_name": "litanid",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/572706963549474816/HcKNq0gy_normal.png"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 11 06:38:35 +0000 2017",
+    "id": 907131239919792130,
+    "id_str": "907131239919792130",
+    "text": "博客新文章《十言八语在 Twitter (2017.08.01-08.31)》：本次归档共计 38 条推文：\n\n@williamlong 迅雷也将死矣。 I-I https://t.co/7r8IGrOqR7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "williamlong",
+          "name": "月光博客",
+          "id": 2786701,
+          "id_str": "2786701",
+          "indices": [
+            56,
+            68
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7r8IGrOqR7",
+          "expanded_url": "https://www.yiwan.pro/?p=376",
+          "display_url": "yiwan.pro/?p=376",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.yiwan.pro\" rel=\"nofollow\">YiwanWpToTw</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1448870624,
+      "id_str": "1448870624",
+      "name": "无毒老三",
+      "screen_name": "litanid",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/572706963549474816/HcKNq0gy_normal.png"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 11 05:13:47 +0000 2017",
+    "id": 907109898227392512,
+    "id_str": "907109898227392512",
+    "text": "@KevinSlaten @mranti 我以为我看的是英文，没想到竟然是用中文写的",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "KevinSlaten",
+          "name": "Kevin Slaten",
+          "id": 15394601,
+          "id_str": "15394601",
+          "indices": [
+            0,
+            12
+          ]
+        },
+        {
+          "screen_name": "mranti",
+          "name": "Michael Anti",
+          "id": 5709522,
+          "id_str": "5709522",
+          "indices": [
+            13,
+            20
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 906744898858106880,
+    "in_reply_to_status_id_str": "906744898858106880",
+    "in_reply_to_user_id": 15394601,
+    "in_reply_to_user_id_str": "15394601",
+    "in_reply_to_screen_name": "KevinSlaten",
+    "user": {
+      "id": 1448870624,
+      "id_str": "1448870624",
+      "name": "无毒老三",
+      "screen_name": "litanid",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/572706963549474816/HcKNq0gy_normal.png"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 11 05:07:59 +0000 2017",
+    "id": 907108436474699776,
+    "id_str": "907108436474699776",
+    "text": "RT @ruanyf: 试了有效，挺快的。以后多条路。https://t.co/62lCQ5T0q4 https://t.co/hzvHOUl2Qu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ruanyf",
+          "name": "ruanyf",
+          "id": 1580781,
+          "id_str": "1580781",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/62lCQ5T0q4",
+          "expanded_url": "https://github.com/coyove/goflyway",
+          "display_url": "github.com/coyove/goflyway",
+          "indices": [
+            27,
+            50
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 906809869889503232,
+          "id_str": "906809869889503232",
+          "indices": [
+            51,
+            74
+          ],
+          "media_url": "http://pbs.twimg.com/media/DJWixa2VAAAKFAX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DJWixa2VAAAKFAX.jpg",
+          "url": "https://t.co/hzvHOUl2Qu",
+          "display_url": "pic.twitter.com/hzvHOUl2Qu",
+          "expanded_url": "https://twitter.com/ruanyf/status/906809881050587136/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 627,
+              "h": 184,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 627,
+              "h": 184,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 627,
+              "h": 184,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 906809881050587136,
+          "source_status_id_str": "906809881050587136",
+          "source_user_id": 1580781,
+          "source_user_id_str": "1580781"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 906809869889503232,
+          "id_str": "906809869889503232",
+          "indices": [
+            51,
+            74
+          ],
+          "media_url": "http://pbs.twimg.com/media/DJWixa2VAAAKFAX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DJWixa2VAAAKFAX.jpg",
+          "url": "https://t.co/hzvHOUl2Qu",
+          "display_url": "pic.twitter.com/hzvHOUl2Qu",
+          "expanded_url": "https://twitter.com/ruanyf/status/906809881050587136/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 627,
+              "h": 184,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 627,
+              "h": 184,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 627,
+              "h": 184,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 906809881050587136,
+          "source_status_id_str": "906809881050587136",
+          "source_user_id": 1580781,
+          "source_user_id_str": "1580781"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1448870624,
+      "id_str": "1448870624",
+      "name": "无毒老三",
+      "screen_name": "litanid",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/572706963549474816/HcKNq0gy_normal.png"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Sep 10 09:21:38 +0000 2017",
+      "id": 906809881050587136,
+      "id_str": "906809881050587136",
+      "text": "试了有效，挺快的。以后多条路。https://t.co/62lCQ5T0q4 https://t.co/hzvHOUl2Qu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/62lCQ5T0q4",
+            "expanded_url": "https://github.com/coyove/goflyway",
+            "display_url": "github.com/coyove/goflyway",
+            "indices": [
+              15,
+              38
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 906809869889503232,
+            "id_str": "906809869889503232",
+            "indices": [
+              39,
+              62
+            ],
+            "media_url": "http://pbs.twimg.com/media/DJWixa2VAAAKFAX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DJWixa2VAAAKFAX.jpg",
+            "url": "https://t.co/hzvHOUl2Qu",
+            "display_url": "pic.twitter.com/hzvHOUl2Qu",
+            "expanded_url": "https://twitter.com/ruanyf/status/906809881050587136/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 627,
+                "h": 184,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 627,
+                "h": 184,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 627,
+                "h": 184,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 906809869889503232,
+            "id_str": "906809869889503232",
+            "indices": [
+              39,
+              62
+            ],
+            "media_url": "http://pbs.twimg.com/media/DJWixa2VAAAKFAX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DJWixa2VAAAKFAX.jpg",
+            "url": "https://t.co/hzvHOUl2Qu",
+            "display_url": "pic.twitter.com/hzvHOUl2Qu",
+            "expanded_url": "https://twitter.com/ruanyf/status/906809881050587136/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 627,
+                "h": 184,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 627,
+                "h": 184,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 627,
+                "h": 184,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1580781,
+        "id_str": "1580781",
+        "name": "ruanyf",
+        "screen_name": "ruanyf",
+        "location": "Shanghai, China",
+        "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+        "url": "http://t.co/fw8pEsBuak",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/fw8pEsBuak",
+                "expanded_url": "http://www.ruanyifeng.com",
+                "display_url": "ruanyifeng.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 53773,
+        "friends_count": 350,
+        "listed_count": 679,
+        "created_at": "Tue Mar 20 02:53:02 +0000 2007",
+        "favourites_count": 10177,
+        "utc_offset": 28800,
+        "time_zone": "Beijing",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2717,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/10120417/3151620623068.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/10120417/3151620623068.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580781/1355537048",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 140,
+      "favorite_count": 350,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 140,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 11 05:00:13 +0000 2017",
+    "id": 907106482390368256,
+    "id_str": "907106482390368256",
+    "text": "RT @ruanyf: 看到一句话：“数学既不像文科那样需要生活经验的积累，也不像物理、化学那样需要实验数据，所以最容易体现出少年的天才头脑来。”这大概也是软件业容易出现少年天才程序员的原因。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ruanyf",
+          "name": "ruanyf",
+          "id": 1580781,
+          "id_str": "1580781",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1448870624,
+      "id_str": "1448870624",
+      "name": "无毒老三",
+      "screen_name": "litanid",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/572706963549474816/HcKNq0gy_normal.png"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Sep 11 00:57:56 +0000 2017",
+      "id": 907045508719316992,
+      "id_str": "907045508719316992",
+      "text": "看到一句话：“数学既不像文科那样需要生活经验的积累，也不像物理、化学那样需要实验数据，所以最容易体现出少年的天才头脑来。”这大概也是软件业容易出现少年天才程序员的原因。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1580781,
+        "id_str": "1580781",
+        "name": "ruanyf",
+        "screen_name": "ruanyf",
+        "location": "Shanghai, China",
+        "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+        "url": "http://t.co/fw8pEsBuak",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/fw8pEsBuak",
+                "expanded_url": "http://www.ruanyifeng.com",
+                "display_url": "ruanyifeng.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 53773,
+        "friends_count": 350,
+        "listed_count": 679,
+        "created_at": "Tue Mar 20 02:53:02 +0000 2007",
+        "favourites_count": 10177,
+        "utc_offset": 28800,
+        "time_zone": "Beijing",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2717,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/10120417/3151620623068.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/10120417/3151620623068.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580781/1355537048",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 51,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 11 04:56:07 +0000 2017",
+    "id": 907105451774320640,
+    "id_str": "907105451774320640",
+    "text": "@tixiang 人生就是不公平，从生的那一刻就开始了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tixiang",
+          "name": "xiang xiang",
+          "id": 21732054,
+          "id_str": "21732054",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 907088260559659008,
+    "in_reply_to_status_id_str": "907088260559659008",
+    "in_reply_to_user_id": 21732054,
+    "in_reply_to_user_id_str": "21732054",
+    "in_reply_to_screen_name": "tixiang",
+    "user": {
+      "id": 1448870624,
+      "id_str": "1448870624",
+      "name": "无毒老三",
+      "screen_name": "litanid",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/572706963549474816/HcKNq0gy_normal.png"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 11 04:53:42 +0000 2017",
+    "id": 907104842736295936,
+    "id_str": "907104842736295936",
+    "text": "终于找到解决方法，还得用 python 本身的 json 库，用 json.load() 方法解析包含 tweets 的 js 文件，就可以直接在博文里显示了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1448870624,
+      "id_str": "1448870624",
+      "name": "无毒老三",
+      "screen_name": "litanid",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/572706963549474816/HcKNq0gy_normal.png"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "00059b04495a7e37",
+      "url": "https://api.twitter.com/1.1/geo/id/00059b04495a7e37.json",
+      "place_type": "admin",
+      "name": "广东",
+      "full_name": "广东, 中华人民共和国",
+      "country_code": "CN",
+      "country": "中华人民共和国",
+      "contained_within": [
+
+      ],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              109.664659,
+              20.221264
+            ],
+            [
+              117.17479,
+              20.221264
+            ],
+            [
+              117.17479,
+              25.518608
+            ],
+            [
+              109.664659,
+              25.518608
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 11 03:28:48 +0000 2017",
+    "id": 907083475483729921,
+    "id_str": "907083475483729921",
+    "text": "tweets里包含的表情符，如：(ﾉಥ益ಥ)🇨🇳🇯🇵😄🏃😒(哼哼锯了你)😊😱😂🌶⚾️🚌🕹💗🇪🇨等，通过python读取js数据，很难显示出来，绞尽脑汁目前还没找到解决办法。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1448870624,
+      "id_str": "1448870624",
+      "name": "无毒老三",
+      "screen_name": "litanid",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/572706963549474816/HcKNq0gy_normal.png"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "00059b04495a7e37",
+      "url": "https://api.twitter.com/1.1/geo/id/00059b04495a7e37.json",
+      "place_type": "admin",
+      "name": "广东",
+      "full_name": "广东, 中华人民共和国",
+      "country_code": "CN",
+      "country": "中华人民共和国",
+      "contained_within": [
+
+      ],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              109.664659,
+              20.221264
+            ],
+            [
+              117.17479,
+              20.221264
+            ],
+            [
+              117.17479,
+              25.518608
+            ],
+            [
+              109.664659,
+              25.518608
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Sun Sep 10 15:59:08 +0000 2017",
     "id": 906909916832473088,
     "id_str": "906909916832473088",
