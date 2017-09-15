@@ -1,5 +1,825 @@
 Grailbird.data.tweets_2017_09 = [
   {
+    "created_at": "Thu Sep 14 14:27:58 +0000 2017",
+    "id": 908336526055976960,
+    "id_str": "908336526055976960",
+    "text": "@F1engineV2 里面的饭菜不好吃，还好多人排队！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "F1engineV2",
+          "name": "困觉前头勿要汰袜子",
+          "id": 11908122,
+          "id_str": "11908122",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 908330934377869313,
+    "in_reply_to_status_id_str": "908330934377869313",
+    "in_reply_to_user_id": 11908122,
+    "in_reply_to_user_id_str": "11908122",
+    "in_reply_to_screen_name": "F1engineV2",
+    "user": {
+      "id": 1448870624,
+      "id_str": "1448870624",
+      "name": "无毒老三",
+      "screen_name": "litanid",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/572706963549474816/HcKNq0gy_normal.png"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Sep 13 13:15:26 +0000 2017",
+    "id": 907955882364825600,
+    "id_str": "907955882364825600",
+    "text": "RT @chinagfw: 使用IPFS+纸小墨搭建去中心化纯静态博客：https://t.co/csgMcuwyGW #IPFS via：@lifent https://t.co/kTfMIncwvZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "IPFS",
+          "indices": [
+            60,
+            65
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "chinagfw",
+          "name": "GFW Blog 功夫网与翻墙",
+          "id": 13008422,
+          "id_str": "13008422",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "lifent",
+          "name": "厂长",
+          "id": 16643804,
+          "id_str": "16643804",
+          "indices": [
+            70,
+            77
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/csgMcuwyGW",
+          "expanded_url": "http://www.chinagfw.org/2017/09/ipfs.html",
+          "display_url": "chinagfw.org/2017/09/ipfs.h…",
+          "indices": [
+            36,
+            59
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 907901766905163777,
+          "id_str": "907901766905163777",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/media/DJmD2MNU8AEOdKG.png",
+          "media_url_https": "https://pbs.twimg.com/media/DJmD2MNU8AEOdKG.png",
+          "url": "https://t.co/kTfMIncwvZ",
+          "display_url": "pic.twitter.com/kTfMIncwvZ",
+          "expanded_url": "https://twitter.com/chinagfw/status/907902940869881856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 244,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1560,
+              "h": 560,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 431,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 907902940869881856,
+          "source_status_id_str": "907902940869881856",
+          "source_user_id": 13008422,
+          "source_user_id_str": "13008422"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 907901766905163777,
+          "id_str": "907901766905163777",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/media/DJmD2MNU8AEOdKG.png",
+          "media_url_https": "https://pbs.twimg.com/media/DJmD2MNU8AEOdKG.png",
+          "url": "https://t.co/kTfMIncwvZ",
+          "display_url": "pic.twitter.com/kTfMIncwvZ",
+          "expanded_url": "https://twitter.com/chinagfw/status/907902940869881856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 244,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1560,
+              "h": 560,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 431,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 907902940869881856,
+          "source_status_id_str": "907902940869881856",
+          "source_user_id": 13008422,
+          "source_user_id_str": "13008422"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1448870624,
+      "id_str": "1448870624",
+      "name": "无毒老三",
+      "screen_name": "litanid",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/572706963549474816/HcKNq0gy_normal.png"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 13 09:45:03 +0000 2017",
+      "id": 907902940869881856,
+      "id_str": "907902940869881856",
+      "text": "使用IPFS+纸小墨搭建去中心化纯静态博客：https://t.co/csgMcuwyGW #IPFS via：@lifent https://t.co/kTfMIncwvZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "IPFS",
+            "indices": [
+              46,
+              51
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "lifent",
+            "name": "厂长",
+            "id": 16643804,
+            "id_str": "16643804",
+            "indices": [
+              56,
+              63
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/csgMcuwyGW",
+            "expanded_url": "http://www.chinagfw.org/2017/09/ipfs.html",
+            "display_url": "chinagfw.org/2017/09/ipfs.h…",
+            "indices": [
+              22,
+              45
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 907901766905163777,
+            "id_str": "907901766905163777",
+            "indices": [
+              64,
+              87
+            ],
+            "media_url": "http://pbs.twimg.com/media/DJmD2MNU8AEOdKG.png",
+            "media_url_https": "https://pbs.twimg.com/media/DJmD2MNU8AEOdKG.png",
+            "url": "https://t.co/kTfMIncwvZ",
+            "display_url": "pic.twitter.com/kTfMIncwvZ",
+            "expanded_url": "https://twitter.com/chinagfw/status/907902940869881856/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 244,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1560,
+                "h": 560,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 431,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 907901766905163777,
+            "id_str": "907901766905163777",
+            "indices": [
+              64,
+              87
+            ],
+            "media_url": "http://pbs.twimg.com/media/DJmD2MNU8AEOdKG.png",
+            "media_url_https": "https://pbs.twimg.com/media/DJmD2MNU8AEOdKG.png",
+            "url": "https://t.co/kTfMIncwvZ",
+            "display_url": "pic.twitter.com/kTfMIncwvZ",
+            "expanded_url": "https://twitter.com/chinagfw/status/907902940869881856/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 244,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1560,
+                "h": 560,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 431,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 13008422,
+        "id_str": "13008422",
+        "name": "GFW Blog 功夫网与翻墙",
+        "screen_name": "chinagfw",
+        "location": "UC Berkeley",
+        "description": "“GFW Blog功夫网与翻墙”是加州大学伯克莱分校“逆权力实验室”（Counterpower Lab）下的一个研究项目。用网志的形式，搜集、整理和发布中文网络上介绍防火长城的内容，并为防火长城内的网民聚合分享突破网络封锁的技术信息。",
+        "url": "http://t.co/ljwTdE0jGm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/ljwTdE0jGm",
+                "expanded_url": "http://chinagfw.blogspot.com/",
+                "display_url": "chinagfw.blogspot.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 29199,
+        "friends_count": 147,
+        "listed_count": 322,
+        "created_at": "Sun Feb 03 12:51:55 +0000 2008",
+        "favourites_count": 57,
+        "utc_offset": -28800,
+        "time_zone": "Alaska",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5466,
+        "lang": "zh-CN",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/769126720880320512/wLy4QfPn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/769126720880320512/wLy4QfPn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13008422/1472208874",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Sep 13 12:16:52 +0000 2017",
+    "id": 907941143941230592,
+    "id_str": "907941143941230592",
+    "text": "昨天开始在办公室滴干活，两天下来忙得有点晕头转向。老了，有点力不从心！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1448870624,
+      "id_str": "1448870624",
+      "name": "无毒老三",
+      "screen_name": "litanid",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/572706963549474816/HcKNq0gy_normal.png"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "00059b04495a7e37",
+      "url": "https://api.twitter.com/1.1/geo/id/00059b04495a7e37.json",
+      "place_type": "admin",
+      "name": "广东",
+      "full_name": "广东, 中华人民共和国",
+      "country_code": "CN",
+      "country": "中华人民共和国",
+      "contained_within": [
+
+      ],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              109.664659,
+              20.221264
+            ],
+            [
+              117.17479,
+              20.221264
+            ],
+            [
+              117.17479,
+              25.518608
+            ],
+            [
+              109.664659,
+              25.518608
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 12 15:24:26 +0000 2017",
+    "id": 907625960240955393,
+    "id_str": "907625960240955393",
+    "text": "@zzz6519003 @weivoo 触目惊心",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "zzz6519003",
+          "name": "赵正中 | 男哥 185求170",
+          "id": 174072485,
+          "id_str": "174072485",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "screen_name": "weivoo",
+          "name": "💬李狗维⛱",
+          "id": 1471348909,
+          "id_str": "1471348909",
+          "indices": [
+            12,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 907157308727189504,
+    "in_reply_to_status_id_str": "907157308727189504",
+    "in_reply_to_user_id": 174072485,
+    "in_reply_to_user_id_str": "174072485",
+    "in_reply_to_screen_name": "zzz6519003",
+    "user": {
+      "id": 1448870624,
+      "id_str": "1448870624",
+      "name": "无毒老三",
+      "screen_name": "litanid",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/572706963549474816/HcKNq0gy_normal.png"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 12 14:16:52 +0000 2017",
+    "id": 907608956889030656,
+    "id_str": "907608956889030656",
+    "text": "@io8_8ov @GreatFireChina 这些难道你们也信？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "io8_8ov",
+          "name": "Squirzilla",
+          "id": 53091480,
+          "id_str": "53091480",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "GreatFireChina",
+          "name": "GreatFire.org",
+          "id": 254148157,
+          "id_str": "254148157",
+          "indices": [
+            9,
+            24
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 907483230021894146,
+    "in_reply_to_status_id_str": "907483230021894146",
+    "in_reply_to_user_id": 53091480,
+    "in_reply_to_user_id_str": "53091480",
+    "in_reply_to_screen_name": "io8_8ov",
+    "user": {
+      "id": 1448870624,
+      "id_str": "1448870624",
+      "name": "无毒老三",
+      "screen_name": "litanid",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/572706963549474816/HcKNq0gy_normal.png"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 12 13:36:15 +0000 2017",
+    "id": 907598736997605382,
+    "id_str": "907598736997605382",
+    "text": "@JejwhheFjfjf @williamlong 这个欣欣又是什么情况？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "JejwhheFjfjf",
+          "name": "翟欣欣 zhai xinxin",
+          "id": 906411080506793984,
+          "id_str": "906411080506793984",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "williamlong",
+          "name": "月光博客",
+          "id": 2786701,
+          "id_str": "2786701",
+          "indices": [
+            14,
+            26
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 907545455327768576,
+    "in_reply_to_status_id_str": "907545455327768576",
+    "in_reply_to_user_id": 906411080506793984,
+    "in_reply_to_user_id_str": "906411080506793984",
+    "in_reply_to_screen_name": "JejwhheFjfjf",
+    "user": {
+      "id": 1448870624,
+      "id_str": "1448870624",
+      "name": "无毒老三",
+      "screen_name": "litanid",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/572706963549474816/HcKNq0gy_normal.png"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 11 22:44:03 +0000 2017",
+    "id": 907374204089073664,
+    "id_str": "907374204089073664",
+    "text": "@QixiaoT 对你家人的困境表示关心。下个月我也要出国，看来得要做好这方面的应急预案。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "QixiaoT",
+          "name": "唐小七",
+          "id": 1036471952,
+          "id_str": "1036471952",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 907286313455329281,
+    "in_reply_to_status_id_str": "907286313455329281",
+    "in_reply_to_user_id": 1036471952,
+    "in_reply_to_user_id_str": "1036471952",
+    "in_reply_to_screen_name": "QixiaoT",
+    "user": {
+      "id": 1448870624,
+      "id_str": "1448870624",
+      "name": "无毒老三",
+      "screen_name": "litanid",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/572706963549474816/HcKNq0gy_normal.png"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 11 22:39:50 +0000 2017",
+    "id": 907373144398225408,
+    "id_str": "907373144398225408",
+    "text": "@eofrest @mranti 这让我想起了那个段子，说是老板让程序猿改来改去，程序猿在面前放了把刀，老板才说可以了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "eofrest",
+          "name": "冷牛五方",
+          "id": 114670040,
+          "id_str": "114670040",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "mranti",
+          "name": "Michael Anti",
+          "id": 5709522,
+          "id_str": "5709522",
+          "indices": [
+            9,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 907056468867682304,
+    "in_reply_to_status_id_str": "907056468867682304",
+    "in_reply_to_user_id": 114670040,
+    "in_reply_to_user_id_str": "114670040",
+    "in_reply_to_screen_name": "eofrest",
+    "user": {
+      "id": 1448870624,
+      "id_str": "1448870624",
+      "name": "无毒老三",
+      "screen_name": "litanid",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/572706963549474816/HcKNq0gy_normal.png"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Sep 11 07:51:59 +0000 2017",
     "id": 907149708165910528,
     "id_str": "907149708165910528",
