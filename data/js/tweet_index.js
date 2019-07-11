@@ -1,9 +1,114 @@
 var tweet_index = [
   {
+    "file_name": "data/js/tweets/2019_07.js",
+    "year": 2019,
+    "var_name": "tweets_2019_07",
+    "tweet_count": 12,
+    "month": 7
+  },
+  {
+    "file_name": "data/js/tweets/2019_06.js",
+    "year": 2019,
+    "var_name": "tweets_2019_06",
+    "tweet_count": 25,
+    "month": 6
+  },
+  {
+    "file_name": "data/js/tweets/2019_05.js",
+    "year": 2019,
+    "var_name": "tweets_2019_05",
+    "tweet_count": 44,
+    "month": 5
+  },
+  {
+    "file_name": "data/js/tweets/2019_04.js",
+    "year": 2019,
+    "var_name": "tweets_2019_04",
+    "tweet_count": 37,
+    "month": 4
+  },
+  {
+    "file_name": "data/js/tweets/2019_03.js",
+    "year": 2019,
+    "var_name": "tweets_2019_03",
+    "tweet_count": 31,
+    "month": 3
+  },
+  {
+    "file_name": "data/js/tweets/2019_02.js",
+    "year": 2019,
+    "var_name": "tweets_2019_02",
+    "tweet_count": 23,
+    "month": 2
+  },
+  {
+    "file_name": "data/js/tweets/2019_01.js",
+    "year": 2019,
+    "var_name": "tweets_2019_01",
+    "tweet_count": 29,
+    "month": 1
+  },
+  {
+    "file_name": "data/js/tweets/2018_12.js",
+    "year": 2018,
+    "var_name": "tweets_2018_12",
+    "tweet_count": 40,
+    "month": 12
+  },
+  {
+    "file_name": "data/js/tweets/2018_11.js",
+    "year": 2018,
+    "var_name": "tweets_2018_11",
+    "tweet_count": 25,
+    "month": 11
+  },
+  {
+    "file_name": "data/js/tweets/2018_10.js",
+    "year": 2018,
+    "var_name": "tweets_2018_10",
+    "tweet_count": 61,
+    "month": 10
+  },
+  {
+    "file_name": "data/js/tweets/2018_09.js",
+    "year": 2018,
+    "var_name": "tweets_2018_09",
+    "tweet_count": 55,
+    "month": 9
+  },
+  {
+    "file_name": "data/js/tweets/2018_08.js",
+    "year": 2018,
+    "var_name": "tweets_2018_08",
+    "tweet_count": 100,
+    "month": 8
+  },
+  {
+    "file_name": "data/js/tweets/2018_07.js",
+    "year": 2018,
+    "var_name": "tweets_2018_07",
+    "tweet_count": 67,
+    "month": 7
+  },
+  {
+    "file_name": "data/js/tweets/2018_06.js",
+    "year": 2018,
+    "var_name": "tweets_2018_06",
+    "tweet_count": 48,
+    "month": 6
+  },
+  {
+    "file_name": "data/js/tweets/2018_05.js",
+    "year": 2018,
+    "var_name": "tweets_2018_05",
+    "tweet_count": 27,
+    "month": 5
+  },
+  {
     "file_name": "data/js/tweets/2018_04.js",
     "year": 2018,
     "var_name": "tweets_2018_04",
-    "tweet_count": 9,
+    "tweet_count": 44,
     "month": 4
   },
   {
